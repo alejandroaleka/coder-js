@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow-x: hidden; */} 
+
+/*  
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+ */
+
+header {
+    padding: 20px;
+}
+
+body {
+    background-image: url("./img/pizzaBG.jpg");
+    background-attachment: fixed;
+    background-size: cover; 
+    color: white;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.containerMenu {
+    margin: 50px auto;
+    padding: 5px;
+    border: 25px;
+    border-style: double;
+    border-color: aquamarine;
+}
+
+.containerMenu p {
+    align-items: center;
+    justify-content: center;
+}
+
+.menuDelivery {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 5px;
+    border: 1px;
+    margin: 5px auto;
+    border-style: dashed;
+    border-color: aquamarine;
+}
+
+#menuD img{
+    border-radius: 25%;
+    width: 150px;
+    height: auto;
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+.producto {
+
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+#deliveryCart {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 5px;
+    margin: 5px;
+    border: 1px;
+    border-style: dashed;
+    border-color: aquamarine;
+    text-align: justify;
+    width: 100%;
+}
+
+.cartItem {
+    margin-bottom: 20px;
+}
