@@ -88,3 +88,10 @@ h2 {
 .cartItem {
     margin-bottom: 20px;
 }
+
+.swal2-popup {
+    font-size: 1.6rem !important;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+  }
+  

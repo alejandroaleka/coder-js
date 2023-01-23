@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "productName": "Margherita",
+    "description": "Tomates San Marzano, mozzarella de búfala, albahaca, aceite de oliva extra virgen, sal",
+    "price": 2000,
+    "img": "./img/margherita.jpg"
+  },
+  {
+    "id": 2,
+    "productName": "Porteña clásica",
+    "description": "Salsa de tomate, mozzarela, sal",
+    "price": 1000,
+    "img": "./img/mozzarella.jpg"
+  },
+  {
+    "id": 3,
+    "productName": "Napolitana",
+    "description": "Salsa de tomate, mozzarella, rodajas de tomate fresco, provenzal, aceite de oliva, sal",
+    "price": 1500,
+    "img": "./img/napolitana.jpg"
+  },
+  {
+    "id": 4,
+    "productName": "Jamón y Morrones",
+    "description": "Salsa de tomate, jamón cocido, mozzarella, condimento de la casa",
+    "price": 1700,
+    "img": "./img/jamonMorron.jpg"
+  },
+  {
+    "id": 5,
+    "productName": "Fugazza de la casa",
+    "description": "Mix de cebollas, queso reggianito rallado, aceite de oliva, sal",
+    "price": 1500,
+    "img": "./img/fugazza.jpg"
+  },
+  {
+    "id": 6,
+    "productName": "Fugazzetta de la casa",
+    "description": "Mix de cebollas, queso reggianito rallado, mozzarella de búfala, aceite de oliva, mix de pimientas",
+    "price": 2300,
+    "img": "./img/fugazzetta.jpg"
+  },
+  {
+    "id": 7,
+    "productName": "Jamón crudo",
+    "description": "Salsa de tomate, mozzarella, jamón crudo, rúcula, aceite de oliva, mix de pimientas",
+    "price": 2500,
+    "img": "./img/crudoRucula.jpg"
+  },
+  {
+    "id": 8,
+    "productName": "Clásica de anchoas",
+    "description": "Salsa de tomate, mozzarella, anchoas, aceituna negra, aceite de oliva, sal",
+    "price": 1800,
+    "img": "./img/anchoa.png"
+  },
+  {
+    "id": 9,
+    "productName": "Palmitos",
+    "description": "Salsa de tomate, mozzarella, jamón natural, palmito, aceite de oliva",
+    "price": 2500,
+    "img": "./img/palmito.jpg"
+  }
+]
